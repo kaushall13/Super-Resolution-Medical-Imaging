@@ -120,9 +120,4 @@ The trained model weights are saved in the following format:
 
 This project is licensed under the MIT License 
 
----
-
-## Author 
-
-Sunil Kumawat
 
